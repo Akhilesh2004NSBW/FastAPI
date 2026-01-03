@@ -333,7 +333,7 @@ Response:
 
 ```json
 {
-  "message": "Meri Chetna Kesi Haiii!"
+  "message": "Welcome to FastAPI!"
 }
 ```
 
